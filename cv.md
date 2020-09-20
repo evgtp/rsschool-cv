@@ -20,7 +20,7 @@ Russia
 ## Experience
 
 Programming Languages 
-: ** JavaScript** Studying JavaScript on the course "RS School"
+- **JavaScript** Studying JavaScript on the course "RS School"
 
 Created a website based on the book:
 
